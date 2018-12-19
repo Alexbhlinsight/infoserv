@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/15 09:40:02.000.550,D:\INSIGHT_XE4_SOURCE\InfoServ\InfoServ.dproj=D:\INSIGHT_XE4_SOURCE\InsightiTrackWatcher\InsightiTrack.dproj</Transaction>
+    <Transaction>2018/11/15 09:40:17.000.768,D:\INSIGHT_XE4_SOURCE\InfoServ\Main.dfm=D:\INSIGHT_XE4_SOURCE\InsightiTrackWatcher\Main.dfm</Transaction>
+    <Transaction>2018/11/15 09:40:17.000.768,D:\INSIGHT_XE4_SOURCE\InfoServ\Main.pas=D:\INSIGHT_XE4_SOURCE\InsightiTrackWatcher\Main.pas</Transaction>
+    <Transaction>2018/11/15 09:40:26.000.910,D:\INSIGHT_XE4_SOURCE\InfoServ\AccountCreate.pas=D:\INSIGHT_XE4_SOURCE\InsightiTrackWatcher\AccountCreate.pas</Transaction>
+    <Transaction>2018/11/15 09:40:26.000.910,D:\INSIGHT_XE4_SOURCE\InfoServ\AccountCreate.dfm=D:\INSIGHT_XE4_SOURCE\InsightiTrackWatcher\AccountCreate.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="AccountCreate.pas"/>
+    <File Path="AccountCreate.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
